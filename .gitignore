@@ -1,0 +1,11 @@
+# Secrets — never upload these
+.env
+client_secret.json
+youtube_token.pickle
+
+# Output files — too large for GitHub
+output/
+media/
+__pycache__/
+*.pyc
+venv/
